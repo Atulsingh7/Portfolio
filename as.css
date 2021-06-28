@@ -350,7 +350,7 @@ section .title::after{
         content: "JAVASCRIPT";
     }
     75%{
-        content: "JQUERY";
+        content: "C++";
     }
     100%{
         content: " PYTHON ";
